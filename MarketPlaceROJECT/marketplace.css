@@ -1,5 +1,4 @@
 * {
-<<<<<<< HEAD
   box-sizing: border-box;
 }
 
@@ -13,31 +12,6 @@ body {
   background-color: whitesmoke;
   padding: 200px 0px 200px 0px;
 }
-=======
-    box-sizing: border-box;
-  }
-  
-  body {
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: space-around;
-    height: 100%;
-    width: 100%;
-    margin: auto;
-    background-color: whitesmoke;
-    padding: 200px 0px 200px 0px;
-  }
-
-  form {
-    display: flex;
-    justify-content: space-around;
-    border: 2px solid black;
-    background-color: lightblue;
-    height: 100%;
-    width: 100%;
-    margin: auto;
-   }
->>>>>>> b1e9182cd6fc9192f975787dd41b2d6fbaa519e6
 
 form {
   display: flex;
@@ -49,7 +23,6 @@ form {
   margin: auto;
  }
 
-<<<<<<< HEAD
 #allpets { 
   background-image: url(Photos/allpets.jpg);
   width: 65vw;
@@ -60,10 +33,3 @@ form:hover {
 transition-delay: 1s;
 transform: rotate(360deg);
 }
-=======
-form:hover {
-  transition-delay: 1s;
-  transform: rotate(360deg);
-}
-
->>>>>>> b1e9182cd6fc9192f975787dd41b2d6fbaa519e6
